@@ -2,7 +2,7 @@
   "name": "context-task",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/lenatardis/r",
+  "homepage": "https://lenatardis.github.io/r/",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
